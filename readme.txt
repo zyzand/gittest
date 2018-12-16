@@ -1,4 +1,4 @@
 hello git,
-this is my first git.
+and this is my first git.
 end.
 
